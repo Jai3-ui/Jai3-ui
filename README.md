@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **jai20070@iiitd.ac.in**
 
-- ⚡ Fun fact **I think i am Serious Student**
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/12dshoXnM_J_8qhC5s435Rv6B9-GhxrZk?usp=share_link](https://drive.google.com/drive/folders/12dshoXnM_J_8qhC5s435Rv6B9-GhxrZk?usp=share_link)
+
+- ⚡ Fun fact **I think i am funny :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
