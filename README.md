@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Jai Singh</h1>
-<h3 align="center">I am a computer science student with a passion for programming and software development. I have experience in various programming languages such as Java, Python, and C++, and I am constantly learning new technologies and tools to improve my skillsAs a student, I have worked on several projects, including web development, Simple RISC and Assembler , machine learning and etc. I enjoy collaborating with others and working in teams to tackle complex problems and develop innovative solutions.My GitHub profile is a reflection of my skills and experiences. It includes repositories of my personal and academic projects. I am always looking for new opportunities to learn and grow as a developer, and I believe that GitHub is an excellent platform to showcase my work and connect with the broader developer community.</h3>
+<h3 align="center">I am a computer science student with a passion for programming and software development. I have experience in various programming languages such as Java, Python, and C++, and I am constantly learning new technologies and tools to improve my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jai3-ui&label=Profile%20views&color=0e75b6&style=flat" alt="jai3-ui" /> </p>
 
