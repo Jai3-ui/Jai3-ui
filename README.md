@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Jai Singh</h1>
-<h3 align="center">I am a computer science student with a passion for programming and software development. I have experience in various programming languages such as Java, Python, and C++, and I am constantly learning new technologies and tools to improve my skills.</h3>
+<h3 align="center">Empowering the future through code and innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jai3-ui&label=Profile%20views&color=0e75b6&style=flat" alt="jai3-ui" /> </p>
 
@@ -7,23 +7,24 @@
 
 <p align="left"> <a href="https://twitter.com/@jaising86570480" target="blank"><img src="https://img.shields.io/twitter/follow/@jaising86570480?logo=twitter&style=for-the-badge" alt="@jaising86570480" /></a> </p>
 
-- 🔭 I’m currently working on **Online Metric Matching**
+- 🌱 I’m currently learning **Machine Learning and Data Science**
 
-- 🌱 I’m currently learning **Cloud Computing , Machine Learning , Approximation Algorithms.**
+- 👯 I’m looking to collaborate on **Data Structure and Algorithms**
 
-- 💬 Ask me about **Data Structure and Algorithms and CSES Problems.**
+- 💬 Ask me about **Data Structure and Algorithms**
 
-- 📫 How to reach me **jai20070@iiitd.ac.in or sjai48578@gmail.com**
+- 📫 How to reach me **jai20070@iiitd.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/12dshoXnM_J_8qhC5s435Rv6B9-GhxrZk?usp=share_link](https://drive.google.com/drive/folders/12dshoXnM_J_8qhC5s435Rv6B9-GhxrZk?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1XhbWYwk46td6GVK8ArS8-t-U0u__Zrly/view?usp=sharing](https://drive.google.com/file/d/1XhbWYwk46td6GVK8ArS8-t-U0u__Zrly/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@jaising86570480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jaising86570480" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jai singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jai singh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jai-singh-4317b0212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jai-singh-4317b0212/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/jai_1970" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jai_1970" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/jai20070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jai20070" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jai72176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jai72176" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/js0657096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="js0657096" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/js065ypu5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="js065ypu5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
